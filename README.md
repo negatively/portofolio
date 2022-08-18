@@ -9,6 +9,7 @@ A separate category is for separate projects.
 
 - ### Machine Learning
 
+	- [Clustering : Mall Customer Segmentation](https://github.com/negatively/mall-customer-segmentation) Analyzing a dataset containing data on various customers of the mall
 	- [Regression : Insurance Prediction](https://github.com/negatively/Simpleweb-Insurance-Predict): A model to predict the cost of a insurance using analysis tools, and deployed using Flask
 	- [Classification : Wine Quality Classification](https://github.com/negatively/DS-ML-Project/tree/main/Wine%20Quality%20Prediction): Testing out several different parameters of random forest to build a model that accurately predicts the quality of wine.
 
