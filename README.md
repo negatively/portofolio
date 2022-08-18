@@ -33,7 +33,7 @@ A separate category is for separate projects.
 - ### Recommendation System
 	- [Content-based Filtering : Music Recommendation](https://github.com/negatively/DS-ML-Project/tree/main/Music%20Recommendation%20Content%20based%20filtering): A reccomendation system that makes music recommendation based on music genre similarities.
 
-_Tools: Scikit-learn, Pandas, Seaborn, Matplotlib_ 
+	_Tools: Scikit-learn, Pandas, Seaborn, Matplotlib_ 
 
 
 - ### Data Analysis and Visualization
